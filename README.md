@@ -1,5 +1,6 @@
 ## React Project using Ionic v5 Components - Updated April 2020
 
+[![Run on Repl.it](https://repl.it/badge/github/Ebrahim2005/ionic-react-auth-firebase)](https://repl.it/github/Ebrahim2005/ionic-react-auth-firebase)
 
 > See YouTube Video with Updated Content
 - https://www.youtube.com/playlist?list=PL2PY2-9rsgl3aYbgV5Y_jFkCH7WWsiP-f
